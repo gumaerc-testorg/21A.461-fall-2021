@@ -33,15 +33,15 @@ The following lecture slides were utilized during this course. 
 
 **Session 9: How We Got to the Extremes: From the Precariat to the Superwealthy**
 
-{{% resource_link "126d5d76-72d1-4ebb-8511-3ab95301d9b4" "Racial Capitalism: Cedric Robinson and Satnam Virdee (PDF)" %}}
+{{% resource_link "126d5d76-72d1-4ebb-8511-3ab95301d9b4" "Racial Capitalism, Flexible Accumulation, and Growing Precarity (PDF)" %}}
 
 **Session 10: Exploring Social Class in High School**
 
 {{% resource_link "9ef88566-1f72-4493-9fdd-5a465f2e8924" "Changing Class Configurations in the United States: Wealth, Race, Deindustrialization (PDF - 1.3MB)" %}}
 
-**Session 14: The Rise of the “Fissured Workplace”**
+**Sessions 14 and 15: The Rise of the “Fissured Workplace”/Chasing an Innovation Economy: Gig Work, Robots, and Artificial Intelligence**
 
-{{% resource_link "8ca39724-47b9-49be-a5a3-0860543d4ca6" "The Fissured Workplace (PDF)" %}}
+{{% resource_link "53b21bfc-b43d-4064-90a1-c5793baf6998" "The Rise of the Fissured Workplace and the Expansion of the Gig Economy (PDF)" %}}
 
 **Session 16: Soviet-Style State Socialism**
 
@@ -51,9 +51,9 @@ The following lecture slides were utilized during this course. 
 
 {{% resource_link "233cbf8f-1d61-47fa-8076-ae9cfd8ccf3e" "Capitalism and its “Others”: Socialism II (PDF)" %}}
 
-**Session 18: The View from Developing Countries**
+**Session 18: The View from Post-Colonial Regions**
 
-{{% resource_link "911b4fe2-6654-4d88-b104-49d398372077" "Capitalism and its “Others”: Socialism III (PDF)" %}}
+{{% resource_link "911b4fe2-6654-4d88-b104-49d398372077" "The View from Post-Colonial Regions (PDF)" %}}
 
 **Sessions 20 and 21: Wall Street and Finance Capitalism/The Financial Crisis of 2008**
 

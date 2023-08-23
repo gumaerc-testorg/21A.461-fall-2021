@@ -71,7 +71,7 @@ In-class viewing: [*People Like Us: Social Class in America*](https://www.imdb.
 
 **Session 14: The Rise of the “Fissured Workplace”**
 
-*Theoretical account of how and why corporations have “fissured” and what that means for working conditions. Weil’s analysis is juxtaposed with journalistic accounts of the work lives of fast food employees and recent immigrant workers in the United States.* 
+*Theoretical account of how and why corporations have “fissured” and what that means for working conditions. Weil’s analysis is juxtaposed with journalistic accounts of the work lives of fast food employees and recent immigrant workers in the United States.*
 
 **Session 15: Chasing an Innovation Economy: Gig Work, Robots, and Artificial Intelligence**
 
@@ -91,7 +91,7 @@ Assignment due: Final paper topics
 
 *Journalistic account of social and economic policies across differing Nordic countries and how such policies contrast with those elsewhere. Considers how the term “socialism” confusingly gets used to describe vastly different social and economic set-ups.*
 
-**Session 18: The View from Developing Countries**
+**Session 18: The View from Post-Colonial Regions**
 
 *Looks at international Marxist movements after decolonization through an ethnographic exploration of the difficult history of the 1974 Ethiopian Revolution. Considers how “Marxism” in the region bore little resemblance to assumptions of either Western supporters or critics, suggesting the importance of deep dives into the histories of particular locations.*
 
@@ -117,7 +117,7 @@ Assignment due: First draft of final paper
 
 **Session 22: An Anthropology of Supply Chains**
 
-*Ethnographic account of supply chains that considers how gourmet mushrooms are picked, circulated, and consumed across U.S., Japan, and other parts of Asia. Brings environmental questions into discussions of capitalism while also offering alternative ways to conceptualize supply chains.*
+*Ethnographic account of supply chains that considers how gourmet mushrooms are picked, circulated, and consumed across the U.S., Japan, and other parts of Asia. Brings environmental questions into discussions of capitalism while also offering alternative ways to conceptualize supply chains.*
 
 First drafts of final papers returned for revisions
 

@@ -47,7 +47,7 @@ Smith, Adam. “Introduction.” In *An Inquiry into the Nature and Causes of t
 
 **Session 6: Capitalism and “Culture”**
 
-Weber, Max. “Class, Status, Party.” Chapter 7 in *From Max Weber: Essays in Sociology. Translated, edited, and with an Introduction* by H.H. Gerth and C. Wright Mills. Routledge, 2009. ISBN: ‎ 9780415482691. \[Preview with [Google Books](https://www.google.com/books/edition/From_Max_Weber/lIb69vVaQRUC?hl=en&gbpv=1&bsq=class,%20status,%20party)\]
+Weber, Max. “Class, Status, Party.” Chapter 7 in *From Max Weber: Essays in Sociology.* Translated, edited, with an Introduction by H.H. Gerth and C. Wright Mills. Routledge, 2009. ISBN: ‎9780415482691. \[Preview with [Google Books](https://www.google.com/books/edition/From_Max_Weber/lIb69vVaQRUC?hl=en&gbpv=1&bsq=class,%20status,%20party)\]
 
 Bourdieu, Pierre. “The Forms of Capital.” Chapter 1 in *The Handbook of Theory and Research for the Sociology of Education*. Edited by John G. Richardson. Greenwood, 1986. ISBN: 9780313235290.
 
@@ -87,7 +87,7 @@ Ogle, Vanessa. “[Archipelago Capitalism: Tax Havens, Offshore Money, and the S
 
 **Session 10: Exploring Social Class in High School**
 
-Bettie, Julie. “How Working-Class Chicas Get Working-Class Lives,” and "Hard-Living Habitus, Settled-Living Resentment.” Chapters 3 and 4 in *Women without Class: Girls, Race, and Identity*. University of California Press, 2014. ISBN: ‎9780520280014. \[Preview with [Google Books](https://www.google.com/books/edition/Women_without_Class/fWRVBAAAQBAJ?hl=en&gbpv=1)\]
+Bettie, Julie. “How Working-Class Chicas Get Working-Class Lives” and "Hard-Living Habitus, Settled-Living Resentment.” Chapters 3 and 4 in *Women without Class: Girls, Race, and Identity*. University of California Press, 2014. ISBN: ‎9780520280014. \[Preview with [Google Books](https://www.google.com/books/edition/Women_without_Class/fWRVBAAAQBAJ?hl=en&gbpv=1)\]
 
 **Session 11: From Old to New Money**
 
@@ -113,7 +113,7 @@ Weil, David. “Vignettes from the Modern Workplace.” Part 1 in *The Fissured
 
 Genoways, Ted. “[The Spam Factory's Dirty Secret](https://www.motherjones.com/politics/2011/06/hormel-spam-pig-brains-disease/).” *Mother Jones*, July/August 2011.
 
-Finnegan, William. “[Dignity: Fast Food Workers and a New Form of Labor Activism](https://www.newyorker.com/magazine/2014/09/15/dignity-william-finnegan).” *New Yorker*, September 15, 2014.
+Finnegan, William. “[Dignity: Fast Food Workers and a New Form of Labor Activism](https://www.newyorker.com/magazine/2014/09/15/dignity-william-finnegan).” *New Yorker*, September 8, 2014.
 
 **Session 15: Chasing an Innovation Economy: Gig Work, Robots, and Artificial Intelligence**
 
@@ -137,7 +137,7 @@ Partanen, Anu. “In the Land of the Free: Becoming American.” Chapter 1 in *
 
 Read two other chapters (your choice) from *The Nordic Theory of Everything: In Search of a Better Life*.
 
-**Session 18: The View from Developing Countries**
+**Session 18: The View from Post-Colonial Regions**
 
 Donham, Donald L. “The Metanarrative of Modernity in Ethiopia: 1974,” “Revolution within a Revolution: Divine Kings and Zemecha Students in Maale,” and “Marxist Modernism at the Ethiopian Center: Cold War Deterritorializations.” Chapters 1, 2, and 6 in *Marxist Modern: An Ethnographic History of the Ethiopian Revolution*. University of California Press, 1999. ISBN: ‎9780520213296. \[Preview with [Google Books](https://www.google.com/books/edition/Marxist_Modern/QwwoCrKPvfwC?hl=en&gbpv=1)\]
 

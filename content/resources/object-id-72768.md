@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /courses/21a-461-what-is-capitalism-fall-2021/object-id-72768.jpg
+file_size: 321554
 file_type: image/jpeg
 image_metadata:
   caption: ''

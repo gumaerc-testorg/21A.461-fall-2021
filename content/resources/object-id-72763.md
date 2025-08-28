@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: courses/what-is-capitalism/object-id-72763.jpg
+file: /ol-ocw-studio-app/courses/21a-461-what-is-capitalism-fall-2021/object-id-72763.jpg
 file_size: 317954
 file_type: image/jpeg
 image_metadata:

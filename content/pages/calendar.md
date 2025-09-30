@@ -19,7 +19,7 @@ uid: 67cc7a42-2362-4f74-9ccc-7da913c07d28
 
 *Class unit that explores the power of shifting information ecosystems to shape how we are informed - or disinformed - about contemporary capitalism.*
 
-In-class viewing: [*The Social Dilemma*](https://www.imdb.com/title/tt11464826/?ref_=fn_al_tt_1). Directed by Jeff Orlowski. Color, 94 min. 2020.
+In-class viewing: {{% resource_link "813e66ae-3de7-41d4-b9ce-16cb2f721392" "*The Social Dilemma*" %}}. Directed by Jeff Orlowski. Color, 94 min. 2020.
 
 **Session 4: Thinking about Capitalism and Information Ecologies II**
 
@@ -55,7 +55,7 @@ Assignment due: Essay 1
 
 *This new unit highlights ethnographic accounts of capitalism. It begins by exploring how social class is embedded in everyday social realities in ways we don’t always examine – including in interactions among teenage girls in a California high school.*
 
-In-class viewing: [*People Like Us: Social Class in America*](https://www.imdb.com/title/tt0362022/?ref_=fn_al_tt_1). Directed by Louis Alvarez and Andrew Kolker. Color, 124 min. 2001.
+In-class viewing: {{% resource_link "48515c91-b043-4e00-95df-4185d2713c4e" "*People Like Us: Social Class in America*" %}}. Directed by Louis Alvarez and Andrew Kolker. Color, 124 min. 2001.
 
 **Session 11: From Old to New Money**
 
@@ -107,7 +107,7 @@ Assignment due: Final paper outlines
 
 *Ethnography of the social world of Wall Street investment bankers in the build-up to the financial crisis of 2008.*
 
-In-class viewing: [*Frontline: Inside the Meltdown*](https://www.pbs.org/wgbh/frontline/film/meltdown/). Directed by Michael Kirk. Color, 56 min. 2009.
+In-class viewing: {{% resource_link "90dc813d-95a4-437e-b692-db389af763bc" "*Frontline: Inside the Meltdown*" %}}. Directed by Michael Kirk. Color, 56 min. 2009.
 
 **Session 21: The Financial Crisis of 2008**
 
